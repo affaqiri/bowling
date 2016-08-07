@@ -10,7 +10,8 @@ code to pass those tests. We get a high quality of code and a high level of code
 of introducing new code in our code base without associated tests.
 
 One of the positive side effects of adopting this approach is that it forces us to solve the whole problem in small steps and we usually find
-out that the initial thought we had for the domain model needed to solve the problem is often not what we thought.
+out that the initial thought we had for the domain model needed to solve the problem was not really required. We get an emergent simple design
+through refactoring steps.
 
 If i were in university and i wanted to show my teacher about my understanding of object oriented, design patterns and all the software engineering
 goodness, i may have started immediately with a domain model like Game, Frame, Roll, 10th Frame specifics implemented by some kind of inheritance and
